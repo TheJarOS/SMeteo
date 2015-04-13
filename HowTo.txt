@@ -1,0 +1,17 @@
+This is an tutorial file.
+
+First what you need to build it?
+  Raspberry Pi (I used B+) 
+  SD/MicroSD card minimum 8GB (it depends on version od Raspberry Pi) 
+  Arduino (I used clone of Arduino Nano, but UNO is fully supported)
+  2x DS18B20 thermometer
+  DHT11 or DHT22 (DHT22 is better)
+  BMP085 preassure sensor
+  LDR resistor 
+  LED diode
+  2x 4K7 resisotr 
+  560 OHM resistor (it depends on LED)
+  Prototyping board and wires
+  MiniUSB cable (it depends on version of Ardiono)
+  2A 5V power supply with MicroUSB 
+  
